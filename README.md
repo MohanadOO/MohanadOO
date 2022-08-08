@@ -8,9 +8,7 @@ Electronics Engineer & Front End Developer
 * 🖥️  See my portfolio at [Mohand Portfolio](http://mohanad-portfolio.pages.dev/)
 * ✉️  You can contact me at [mohanad.alrwaihy@gmail.com](mailto:mohanad.alrwaihy@gmail.com)
 
-<a href="https://www.twitter.com/Mohanad_OOO" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Mohanad_OOO?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
-/></a><a href="https://www.github.com/mohanadoo" target="_blank" rel="noreferrer"><img
+</a><a href="https://www.github.com/mohanadoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohanadoo?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 ### Skills
@@ -32,7 +30,7 @@ src="https://img.shields.io/github/followers/mohanadoo?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/mohanadoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/MohanadOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mohanadoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@MohanadOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohanad-alrwahiy-176aa719b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mohanad_OOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/mohanadoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/MohanadOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mohanadoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@MohanadOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohanad-alrwahiy-176aa719b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
