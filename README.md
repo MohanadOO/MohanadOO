@@ -36,5 +36,3 @@ src="https://img.shields.io/github/followers/mohanadoo?logo=github&style=for-the
 
 <p align="left">
 <a href="https://app.daily.dev/MohanadOO" align="left"><img src="https://github.com/MohanadOO/MohanadOO/blob/main/devcard.svg" width="400" alt="Mohanad Alrwaihy's Dev Card"/></a>
-<a href="https://github.com/mohanadoo" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanadoo&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
