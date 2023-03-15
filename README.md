@@ -13,6 +13,7 @@ src="https://img.shields.io/github/followers/mohanadoo?logo=github&style=for-the
 <a href="https://www.twitter.com/MohanadOO_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MohanadOO_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
 /></a>
+<p><a href="https://wakatime.com/@70dd7150-35f0-4e66-a180-e4f2d50c544a"><img src="https://wakatime.com/badge/user/70dd7150-35f0-4e66-a180-e4f2d50c544a.svg" alt="Total time coded since Sep 27 2022" /></a></p>
 
 ### Skills
 
