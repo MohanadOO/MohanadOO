@@ -5,6 +5,7 @@ Electronics Engineer & Front End Developer
 ------------------------------------------
 
 * 🌍  I'm based in Jeddah, Saudia Arabia
+* 🧠  I'm learning React Native
 * 🖥️  See my portfolio at [Mohand Portfolio](https://mohanad.in)
 * ✉️  You can contact me at [mohanad.alrwaihy@gmail.com](mailto:mohanad.alrwaihy@gmail.com)
 
