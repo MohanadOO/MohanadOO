@@ -46,4 +46,4 @@ src="https://img.shields.io/twitter/follow/MohanadOO_?logo=twitter&style=for-the
 ### Badges
 
 <p align="left">
-<a href="https://app.daily.dev/MohanadOO" align="left"><img src="https://github.com/MohanadOO/MohanadOO/blob/main/devcard.svg" width="400" alt="Mohanad Alrwaihy's Dev Card"/></a>
+<a href="https://app.daily.dev/MohanadOO" align="left"><img src="./devcard.png" width="356" alt="Mohanad Dev Card"/></a>
